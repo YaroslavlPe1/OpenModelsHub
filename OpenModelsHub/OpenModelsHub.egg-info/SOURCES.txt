@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+OpenModelsHub.egg-info/PKG-INFO
+OpenModelsHub.egg-info/SOURCES.txt
+OpenModelsHub.egg-info/dependency_links.txt
+OpenModelsHub.egg-info/requires.txt
+OpenModelsHub.egg-info/top_level.txt
